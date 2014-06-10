@@ -4,11 +4,11 @@ Format Text Ver 1.0
 Scene {
 	pos 14.2701 -544.6257 1647.1378
 	lookat 0.0000 0.0000 0.0000
-	head 0.0700
-	pich 0.2000
+	head -1.1700
+	pich 0.2700
 	bank 0.0000
-	ortho 1
-	zoom2 11.2499
+	ortho 0
+	zoom2 5.0000
 	amb 0.250 0.250 0.250
 }
 Object "“ª•”" {
@@ -55,7 +55,7 @@ Object "obj1" {
 	patch 3
 	segment 2
 	visible 15
-	locking 0
+	locking 1
 	shading 1
 	facet 59.5
 	color 0.898 0.498 0.698
